@@ -1,0 +1,1475 @@
+Criando modelo: 
+Modelo t20200302_ID000M003J004_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 29.0
+Detalhes status  = integer optimal solution
+time    = 0.00712585 s.
+problem = MILP
+gap     = 0%
+
+Criando modelo: 
+Modelo t20200302_ID000M003J004_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 29.0
+Detalhes status  = integer optimal solution
+time    = 0.00287104 s.
+problem = MILP
+gap     = 0%
+
+Criando modelo: 
+Modelo t20200302_ID000M003J004_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 23.0
+Detalhes status  = optimal
+time    = 0.000354052 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID000M003J004_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 24.4926
+Detalhes status  = optimal
+time    = 0.000837088 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID000M003J005_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 33.0
+Detalhes status  = integer optimal solution
+time    = 0.00953102 s.
+problem = MILP
+gap     = 0%
+
+Criando modelo: 
+Modelo t20200302_ID000M003J005_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 33.0
+Detalhes status  = integer optimal solution
+time    = 0.0208771 s.
+problem = MILP
+gap     = 0%
+
+Criando modelo: 
+Modelo t20200302_ID000M003J005_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 23.0
+Detalhes status  = optimal
+time    = 0.000373125 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID000M003J005_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 28.5586
+Detalhes status  = optimal
+time    = 0.00241804 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID000M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1210.0
+Detalhes status  = integer optimal, tolerance
+time    = 237.333 s.
+problem = MILP
+gap     = 8.41917e-07%
+
+Criando modelo: 
+Modelo t20200302_ID000M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9543.0
+Detalhes status  = time limit exceeded
+time    = 3600.07 s.
+problem = MILP
+gap     = 89.164%
+
+Criando modelo: 
+Modelo t20200302_ID000M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 963.0
+Detalhes status  = optimal
+time    = 0.018455 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID000M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 982.4702
+Detalhes status  = optimal
+time    = 20.6879 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID001M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1177.0
+Detalhes status  = integer optimal, tolerance
+time    = 974.129 s.
+problem = MILP
+gap     = 0.00283206%
+
+Criando modelo: 
+Modelo t20200302_ID001M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9107.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 88.7594%
+
+Criando modelo: 
+Modelo t20200302_ID001M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 942.0
+Detalhes status  = optimal
+time    = 0.017941 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID001M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 945.6248
+Detalhes status  = optimal
+time    = 31.1354 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID002M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1197.0
+Detalhes status  = integer optimal, tolerance
+time    = 2530.71 s.
+problem = MILP
+gap     = 0.00815219%
+
+Criando modelo: 
+Modelo t20200302_ID002M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 8571.0
+Detalhes status  = time limit exceeded
+time    = 3600.14 s.
+problem = MILP
+gap     = 88.3211%
+
+Criando modelo: 
+Modelo t20200302_ID002M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 921.0
+Detalhes status  = optimal
+time    = 0.021451 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID002M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 947.8456
+Detalhes status  = optimal
+time    = 35.8692 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID003M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1176.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 7.18268%
+
+Criando modelo: 
+Modelo t20200302_ID003M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 3979.0
+Detalhes status  = time limit exceeded
+time    = 3600.67 s.
+problem = MILP
+gap     = 75.9781%
+
+Criando modelo: 
+Modelo t20200302_ID003M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 911.0
+Detalhes status  = optimal
+time    = 0.018887 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID003M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 911.0
+Detalhes status  = optimal
+time    = 35.2568 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID004M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1235.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 7.84314%
+
+Criando modelo: 
+Modelo t20200302_ID004M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 8380.0
+Detalhes status  = time limit exceeded
+time    = 3600.07 s.
+problem = MILP
+gap     = 87.9191%
+
+Criando modelo: 
+Modelo t20200302_ID004M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 940.0
+Detalhes status  = optimal
+time    = 0.01863 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID004M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 975.956
+Detalhes status  = optimal
+time    = 3.9205 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID005M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1162.0
+Detalhes status  = integer optimal, tolerance
+time    = 1573.86 s.
+problem = MILP
+gap     = 0.00965988%
+
+Criando modelo: 
+Modelo t20200302_ID005M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9421.0
+Detalhes status  = time limit exceeded
+time    = 3600.09 s.
+problem = MILP
+gap     = 89.8501%
+
+Criando modelo: 
+Modelo t20200302_ID005M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 849.0
+Detalhes status  = optimal
+time    = 0.0203559 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID005M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 915.2325
+Detalhes status  = optimal
+time    = 9.08469 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID006M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1243.0
+Detalhes status  = integer optimal, tolerance
+time    = 294.832 s.
+problem = MILP
+gap     = 0.00554831%
+
+Criando modelo: 
+Modelo t20200302_ID006M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 8957.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 88.5313%
+
+Criando modelo: 
+Modelo t20200302_ID006M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 935.0
+Detalhes status  = optimal
+time    = 0.021189 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID006M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 979.5495
+Detalhes status  = optimal
+time    = 20.733 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID007M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1181.0
+Detalhes status  = integer optimal solution
+time    = 51.4778 s.
+problem = MILP
+gap     = 0%
+
+Criando modelo: 
+Modelo t20200302_ID007M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 2177.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 53.0804%
+
+Criando modelo: 
+Modelo t20200302_ID007M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 963.0
+Detalhes status  = optimal
+time    = 0.0174389 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID007M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 963.8989
+Detalhes status  = optimal
+time    = 20.1413 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID008M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1293.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 6.57386%
+
+Criando modelo: 
+Modelo t20200302_ID008M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9017.0
+Detalhes status  = time limit exceeded
+time    = 3600.07 s.
+problem = MILP
+gap     = 88.3277%
+
+Criando modelo: 
+Modelo t20200302_ID008M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 982.0
+Detalhes status  = optimal
+time    = 0.020565 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID008M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1012.3868
+Detalhes status  = optimal
+time    = 5.64342 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID009M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1217.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 10.3875%
+
+Criando modelo: 
+Modelo t20200302_ID009M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 8943.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 88.6525%
+
+Criando modelo: 
+Modelo t20200302_ID009M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 896.0
+Detalhes status  = optimal
+time    = 0.0206242 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID009M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 988.9418
+Detalhes status  = optimal
+time    = 4.20377 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID000M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1394.0
+Detalhes status  = time limit exceeded
+time    = 3601.03 s.
+problem = MILP
+gap     = 18.3644%
+
+Criando modelo: 
+Modelo t20200302_ID000M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 10938.0
+Detalhes status  = time limit exceeded
+time    = 3600.07 s.
+problem = MILP
+gap     = 90.6489%
+
+Criando modelo: 
+Modelo t20200302_ID000M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 949.0
+Detalhes status  = optimal
+time    = 0.0378041 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID000M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 992.1796
+Detalhes status  = optimal
+time    = 984.13 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID001M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1440.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 23.4558%
+
+Criando modelo: 
+Modelo t20200302_ID001M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 12702.0
+Detalhes status  = time limit exceeded
+time    = 3600.07 s.
+problem = MILP
+gap     = 91.7313%
+
+Criando modelo: 
+Modelo t20200302_ID001M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1012.0
+Detalhes status  = optimal
+time    = 0.0415959 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID001M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1031.4674
+Detalhes status  = optimal
+time    = 506.434 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID002M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1407.0
+Detalhes status  = time limit exceeded
+time    = 3600.16 s.
+problem = MILP
+gap     = 18.76%
+
+Criando modelo: 
+Modelo t20200302_ID002M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11401.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 90.6316%
+
+Criando modelo: 
+Modelo t20200302_ID002M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 919.0
+Detalhes status  = optimal
+time    = 0.0425248 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID002M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1057.7687
+Detalhes status  = optimal
+time    = 350.076 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID003M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1341.0
+Detalhes status  = time limit exceeded
+time    = 3601.14 s.
+problem = MILP
+gap     = 20.4297%
+
+Criando modelo: 
+Modelo t20200302_ID003M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11735.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 91.4287%
+
+Criando modelo: 
+Modelo t20200302_ID003M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 990.0
+Detalhes status  = optimal
+time    = 0.0391111 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID003M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1004.1357
+Detalhes status  = optimal
+time    = 386.994 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID004M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1411.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 23.7041%
+
+Criando modelo: 
+Modelo t20200302_ID004M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11177.0
+Detalhes status  = time limit exceeded
+time    = 3600.07 s.
+problem = MILP
+gap     = 90.576%
+
+Criando modelo: 
+Modelo t20200302_ID004M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 880.0
+Detalhes status  = optimal
+time    = 0.0388889 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID004M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1053.3099
+Detalhes status  = optimal
+time    = 410.714 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID005M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1497.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 27.9279%
+
+Criando modelo: 
+Modelo t20200302_ID005M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 12309.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 90.6686%
+
+Criando modelo: 
+Modelo t20200302_ID005M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 932.0
+Detalhes status  = optimal
+time    = 0.0422928 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID005M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1141.4716
+Detalhes status  = optimal
+time    = 470.764 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID006M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1459.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 21.4971%
+
+Criando modelo: 
+Modelo t20200302_ID006M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 12242.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 90.9217%
+
+Criando modelo: 
+Modelo t20200302_ID006M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 979.0
+Detalhes status  = optimal
+time    = 0.0360031 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID006M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1106.7648
+Detalhes status  = optimal
+time    = 213.439 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID007M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1478.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 26.2517%
+
+Criando modelo: 
+Modelo t20200302_ID007M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 12220.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 91.5311%
+
+Criando modelo: 
+Modelo t20200302_ID007M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 900.0
+Detalhes status  = optimal
+time    = 0.0425298 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID007M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1027.5522
+Detalhes status  = optimal
+time    = 419.407 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID008M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1353.0
+Detalhes status  = time limit exceeded
+time    = 3601.3 s.
+problem = MILP
+gap     = 21.1389%
+
+Criando modelo: 
+Modelo t20200302_ID008M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11976.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 91.3444%
+
+Criando modelo: 
+Modelo t20200302_ID008M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 920.0
+Detalhes status  = optimal
+time    = 0.043154 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID008M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1026.7777
+Detalhes status  = optimal
+time    = 355.19 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID009M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1423.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 24.4812%
+
+Criando modelo: 
+Modelo t20200302_ID009M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11989.0
+Detalhes status  = time limit exceeded
+time    = 3600.08 s.
+problem = MILP
+gap     = 91.414%
+
+Criando modelo: 
+Modelo t20200302_ID009M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 928.0
+Detalhes status  = optimal
+time    = 0.0369778 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID009M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1027.0003
+Detalhes status  = optimal
+time    = 563.53 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID000M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1617.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 15.417%
+
+Criando modelo: 
+Modelo t20200302_ID000M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 15387.0
+Detalhes status  = time limit exceeded
+time    = 3600.09 s.
+problem = MILP
+gap     = 91.9992%
+
+Criando modelo: 
+Modelo t20200302_ID000M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1217.0
+Detalhes status  = optimal
+time    = 0.052705 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID000M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1219.0925
+Detalhes status  = optimal
+time    = 596.318 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID001M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1644.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 18.0735%
+
+Criando modelo: 
+Modelo t20200302_ID001M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16801.0
+Detalhes status  = time limit exceeded
+time    = 3600.08 s.
+problem = MILP
+gap     = 92.4705%
+
+Criando modelo: 
+Modelo t20200302_ID001M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1223.0
+Detalhes status  = optimal
+time    = 0.063277 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID001M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1223.0
+Detalhes status  = optimal
+time    = 735.54 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID002M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1637.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 17.9447%
+
+Criando modelo: 
+Modelo t20200302_ID002M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16329.0
+Detalhes status  = time limit exceeded
+time    = 3600.11 s.
+problem = MILP
+gap     = 92.4245%
+
+Criando modelo: 
+Modelo t20200302_ID002M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1164.0
+Detalhes status  = optimal
+time    = 0.0645711 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID002M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1212.6639
+Detalhes status  = optimal
+time    = 142.86 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID003M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1674.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 21.1122%
+
+Criando modelo: 
+Modelo t20200302_ID003M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 15509.0
+Detalhes status  = time limit exceeded
+time    = 3600.09 s.
+problem = MILP
+gap     = 92.0543%
+
+Criando modelo: 
+Modelo t20200302_ID003M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1151.0
+Detalhes status  = optimal
+time    = 0.0623679 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID003M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1216.4953
+Detalhes status  = optimal
+time    = 262.318 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID004M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1704.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 21.1854%
+
+Criando modelo: 
+Modelo t20200302_ID004M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 14010.0
+Detalhes status  = time limit exceeded
+time    = 3600.09 s.
+problem = MILP
+gap     = 90.688%
+
+Criando modelo: 
+Modelo t20200302_ID004M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1170.0
+Detalhes status  = optimal
+time    = 0.0637939 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID004M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1298.3246
+Detalhes status  = optimal
+time    = 644.111 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID005M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1654.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 18.1217%
+
+Criando modelo: 
+Modelo t20200302_ID005M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16161.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 92.0586%
+
+Criando modelo: 
+Modelo t20200302_ID005M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1207.0
+Detalhes status  = optimal
+time    = 0.062557 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID005M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1276.4732
+Detalhes status  = optimal
+time    = 469.402 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID006M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1741.0
+Detalhes status  = time limit exceeded
+time    = 3600.03 s.
+problem = MILP
+gap     = 18.1533%
+
+Criando modelo: 
+Modelo t20200302_ID006M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 17369.0
+Detalhes status  = time limit exceeded
+time    = 3600.11 s.
+problem = MILP
+gap     = 92.3707%
+
+Criando modelo: 
+Modelo t20200302_ID006M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1291.0
+Detalhes status  = optimal
+time    = 0.062295 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID006M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1291.0
+Detalhes status  = optimal
+time    = 622.5 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID007M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1623.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 13.195%
+
+Criando modelo: 
+Modelo t20200302_ID007M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16018.0
+Detalhes status  = time limit exceeded
+time    = 3600.09 s.
+problem = MILP
+gap     = 92.1838%
+
+Criando modelo: 
+Modelo t20200302_ID007M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1221.0
+Detalhes status  = optimal
+time    = 0.0598381 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID007M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1246.3381
+Detalhes status  = optimal
+time    = 676.246 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID008M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1669.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 16.2322%
+
+Criando modelo: 
+Modelo t20200302_ID008M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 17293.0
+Detalhes status  = time limit exceeded
+time    = 3600.1 s.
+problem = MILP
+gap     = 92.4652%
+
+Criando modelo: 
+Modelo t20200302_ID008M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1227.0
+Detalhes status  = optimal
+time    = 0.0612869 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID008M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1253.4737
+Detalhes status  = optimal
+time    = 270.134 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID009M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1645.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 16.2795%
+
+Criando modelo: 
+Modelo t20200302_ID009M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 15626.0
+Detalhes status  = time limit exceeded
+time    = 3600.09 s.
+problem = MILP
+gap     = 91.8035%
+
+Criando modelo: 
+Modelo t20200302_ID009M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1212.0
+Detalhes status  = optimal
+time    = 0.062324 s.
+problem = LP
+
+Criando modelo: 
+Modelo t20200302_ID009M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Traceback (most recent call last):
+  File "main.py", line 57, in <module>
+    df = teste_manne_minlafav(prefixo_arq="t20200302", tam_amostra=35, tempo_max=3600)
+  File "/home/judecir/Documentos/mmq_jsp_t5/resolucao.py", line 154, in teste_manne_minlafav
+    escrever_solucao(sol)
+  File "/home/judecir/Documentos/mmq_jsp_t5/resolucao.py", line 16, in escrever_solucao
+    if(s.has_objective()):
+AttributeError: 'NoneType' object has no attribute 'has_objective'

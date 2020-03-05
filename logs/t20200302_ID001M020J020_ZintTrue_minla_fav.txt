@@ -1,0 +1,41 @@
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_Read_DataCheck                          1
+Tried aggregator 1 time.
+MIP Presolve eliminated 3466 rows and 0 columns.
+MIP Presolve modified 5898 coefficients.
+Reduced MIP has 157314 rows, 72601 columns, and 746762 nonzeros.
+Reduced MIP has 3800 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.12 sec. (208.55 ticks)
+Found incumbent of value 16970.000000 after 0.29 sec. (429.47 ticks)
+Probing fixed 0 vars, tightened 1 bounds.
+Probing time = 0.03 sec. (33.56 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 157314 rows, 72601 columns, and 746762 nonzeros.
+Reduced MIP has 3800 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.29 sec. (301.39 ticks)
+Probing time = 0.03 sec. (31.93 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 470.23 sec. (142811.39 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                        16970.0000     1265.0000            92.55%
+*     0+    0                        16801.0000     1265.0000            92.47%
+      0     0     1265.0000  3092    16801.0000     1265.0000   137335   92.47%
+      0     0     1265.0303  2897    16801.0000    Cuts: 3300   504348   92.47%
+
+Implied bound cuts applied:  575
+Flow cuts applied:  451
+Mixed integer rounding cuts applied:  3692
+
+Root node processing (before b&c):
+  Real time             = 3600.06 sec. (2134550.06 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) = 3600.06 sec. (2134550.06 ticks)

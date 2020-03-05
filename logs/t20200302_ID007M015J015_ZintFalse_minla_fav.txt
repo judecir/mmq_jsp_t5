@@ -1,0 +1,166 @@
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_Read_DataCheck                          1
+Parallel mode: deterministic, using up to 8 threads for concurrent optimization.
+Tried aggregator 1 time.
+LP Presolve eliminated 159 rows and 0 columns.
+Reduced LP has 50901 rows, 22276 columns, and 233877 nonzeros.
+Presolve time = 0.02 sec. (37.40 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =           963.000000
+Perturbation started.
+Iteration:   203   Dual objective     =           963.000000
+Initializing dual steep norms . . .
+Iteration:   204   Dual objective     =           963.000217
+Iteration:  1387   Dual objective     =           963.011795
+Iteration:  1779   Dual objective     =           963.012758
+Iteration:  2584   Dual objective     =           963.014120
+Iteration:  3375   Dual objective     =           963.015629
+Iteration:  3819   Dual objective     =           963.015866
+Iteration:  4349   Dual objective     =           963.016067
+Iteration:  4845   Dual objective     =           963.016233
+Iteration:  5329   Dual objective     =           963.016430
+Iteration:  5703   Dual objective     =           963.016531
+Iteration:  6216   Dual objective     =           963.016642
+Iteration:  6687   Dual objective     =           963.016745
+Iteration:  7137   Dual objective     =           963.016875
+Iteration:  7602   Dual objective     =           963.016958
+Iteration:  8025   Dual objective     =           963.017022
+Iteration:  8423   Dual objective     =           963.017104
+Iteration:  8820   Dual objective     =           963.017142
+Iteration:  9179   Dual objective     =           963.017193
+Iteration:  9500   Dual objective     =           963.017227
+Iteration:  9935   Dual objective     =           963.017278
+Iteration: 10307   Dual objective     =           963.018440
+Iteration: 10761   Dual objective     =           963.018571
+Iteration: 11130   Dual objective     =           963.018655
+Iteration: 11511   Dual objective     =           963.018850
+Iteration: 11848   Dual objective     =           963.018961
+Iteration: 12145   Dual objective     =           963.019010
+Iteration: 12435   Dual objective     =           963.019051
+Iteration: 12841   Dual objective     =           963.019145
+Iteration: 13155   Dual objective     =           963.019181
+Iteration: 13475   Dual objective     =           963.019213
+Iteration: 13811   Dual objective     =           963.019246
+Iteration: 14109   Dual objective     =           963.019277
+Iteration: 14390   Dual objective     =           963.019298
+Iteration: 14680   Dual objective     =           963.019336
+Iteration: 14958   Dual objective     =           963.019356
+Iteration: 15501   Dual objective     =           963.019472
+Iteration: 15820   Dual objective     =           963.019510
+Iteration: 16187   Dual objective     =           963.019564
+Iteration: 16527   Dual objective     =           963.019601
+Iteration: 16835   Dual objective     =           963.019627
+Iteration: 17132   Dual objective     =           963.019649
+Iteration: 17485   Dual objective     =           963.019699
+Iteration: 17792   Dual objective     =           963.019723
+Iteration: 18098   Dual objective     =           963.019738
+Iteration: 18384   Dual objective     =           963.019755
+Iteration: 18820   Dual objective     =           963.019810
+Iteration: 19126   Dual objective     =           963.019834
+Iteration: 19476   Dual objective     =           963.019871
+Iteration: 19738   Dual objective     =           963.019885
+Iteration: 20014   Dual objective     =           963.019899
+Iteration: 20274   Dual objective     =           963.023110
+Iteration: 20550   Dual objective     =           963.023128
+Iteration: 20825   Dual objective     =           963.023153
+Iteration: 21266   Dual objective     =           963.023206
+Iteration: 21607   Dual objective     =           963.023258
+Iteration: 21872   Dual objective     =           963.023292
+Iteration: 22141   Dual objective     =           963.023303
+Iteration: 22434   Dual objective     =           963.023333
+Iteration: 22698   Dual objective     =           963.023347
+Iteration: 22964   Dual objective     =           963.023354
+Iteration: 23339   Dual objective     =           963.023394
+Iteration: 23622   Dual objective     =           963.023402
+Iteration: 23909   Dual objective     =           963.023412
+Iteration: 24185   Dual objective     =           963.023417
+Iteration: 24466   Dual objective     =           963.023423
+Iteration: 24760   Dual objective     =           963.023434
+Iteration: 25143   Dual objective     =           963.023463
+Iteration: 25434   Dual objective     =           963.023481
+Iteration: 25703   Dual objective     =           963.023489
+Iteration: 25960   Dual objective     =           963.023502
+Iteration: 26220   Dual objective     =           963.023522
+Iteration: 26469   Dual objective     =           963.023526
+Iteration: 26754   Dual objective     =           963.023535
+Iteration: 27033   Dual objective     =           963.023547
+Iteration: 27305   Dual objective     =           963.023573
+Iteration: 27562   Dual objective     =           963.023589
+Iteration: 27818   Dual objective     =           963.023596
+Iteration: 28055   Dual objective     =           963.023598
+Iteration: 28320   Dual objective     =           963.023601
+Iteration: 28574   Dual objective     =           963.023609
+Iteration: 28837   Dual objective     =           963.023617
+Iteration: 29100   Dual objective     =           963.023627
+Iteration: 29369   Dual objective     =           963.023633
+Iteration: 29633   Dual objective     =           963.023641
+Iteration: 29887   Dual objective     =           963.023645
+Iteration: 30150   Dual objective     =           963.023649
+Iteration: 30445   Dual objective     =           963.025902
+Iteration: 30701   Dual objective     =           963.025908
+Iteration: 30960   Dual objective     =           963.025913
+Iteration: 31214   Dual objective     =           963.025915
+Iteration: 31502   Dual objective     =           963.025919
+Iteration: 31824   Dual objective     =           963.025929
+Iteration: 32084   Dual objective     =           963.025937
+Iteration: 32325   Dual objective     =           963.025941
+Iteration: 32582   Dual objective     =           963.025944
+Iteration: 32870   Dual objective     =           963.025946
+Iteration: 33145   Dual objective     =           963.025957
+Iteration: 33416   Dual objective     =           963.025973
+Iteration: 33654   Dual objective     =           963.025986
+Iteration: 33916   Dual objective     =           963.026013
+Iteration: 34174   Dual objective     =           963.026025
+Iteration: 34433   Dual objective     =           963.026033
+Iteration: 34710   Dual objective     =           963.026045
+Iteration: 34983   Dual objective     =           963.026054
+Iteration: 35269   Dual objective     =           963.026061
+Iteration: 35536   Dual objective     =           963.026063
+Iteration: 35914   Dual objective     =           963.026150
+Iteration: 36344   Dual objective     =           963.026196
+Iteration: 36711   Dual objective     =           963.026422
+Iteration: 37052   Dual objective     =           963.027359
+Iteration: 37374   Dual objective     =           963.027766
+Iteration: 37774   Dual objective     =           963.692953
+Iteration: 38204   Dual objective     =           963.767606
+Iteration: 38561   Dual objective     =           963.768867
+Iteration: 38877   Dual objective     =           963.775926
+Iteration: 39151   Dual objective     =           963.775943
+Iteration: 39425   Dual objective     =           963.779244
+Iteration: 39695   Dual objective     =           963.786129
+Iteration: 40125   Dual objective     =           963.810829
+Iteration: 40608   Dual objective     =           963.811357
+Iteration: 41003   Dual objective     =           963.811373
+Iteration: 41454   Dual objective     =           963.813423
+Iteration: 41943   Dual objective     =           963.813487
+Iteration: 42368   Dual objective     =           963.815287
+Iteration: 42730   Dual objective     =           963.815552
+Iteration: 43115   Dual objective     =           963.885078
+Elapsed time = 18.43 sec. (10000.13 ticks, 43252 iterations)
+Iteration: 43499   Dual objective     =           963.912777
+Iteration: 43878   Dual objective     =           963.924348
+Iteration: 44205   Dual objective     =           963.924925
+Iteration: 44543   Dual objective     =           963.925863
+Iteration: 45034   Dual objective     =           963.925903
+Iteration: 45425   Dual objective     =           963.925933
+Iteration: 45862   Dual objective     =           963.925948
+Iteration: 46292   Dual objective     =           963.925966
+Iteration: 46704   Dual objective     =           963.925975
+Iteration: 47078   Dual objective     =           963.925982
+Iteration: 47447   Dual objective     =           963.925990
+Iteration: 47878   Dual objective     =           963.925995
+Removing perturbation.
+Iteration: 48029    Objective     =           963.898961
+Iteration: 48253    Objective     =           963.898935
+Iteration: 48312   Dual objective     =           963.898923
+Reperturbation started.
+Iteration: 48412   Dual objective     =           963.898923
+Iteration: 48711   Dual objective     =           963.898923
+Iteration: 49047   Dual objective     =           963.898924
+Iteration: 49472   Dual objective     =           963.898924
+Removing perturbation.
+Iteration: 49574   Dual objective     =           963.898923
+
+Dual simplex solved model.
+
